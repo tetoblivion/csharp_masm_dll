@@ -1,0 +1,14 @@
+G:\__video_sharp\sharprdrand\sharprdrand\bin\x64\Release\sharprdrand.exe.config
+G:\__video_sharp\sharprdrand\sharprdrand\bin\x64\Release\sharprdrand.exe
+G:\__video_sharp\sharprdrand\sharprdrand\bin\x64\Release\sharprdrand.pdb
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\MainWindow.g.cs
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\App.g.cs
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand_MarkupCompile.cache
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand_MarkupCompile.lref
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\MainWindow.baml
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand.g.resources
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand.Properties.Resources.resources
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand.csproj.GenerateResource.cache
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand.csproj.CoreCompileInputs.cache
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand.exe
+G:\__video_sharp\sharprdrand\sharprdrand\obj\x64\Release\sharprdrand.pdb

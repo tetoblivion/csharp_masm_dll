@@ -1,0 +1,7 @@
+﻿  Assembling rdrand.asm...
+rdrand.asm(6): warning A6004: procedure argument or local not referenced : parameter1
+rdrand.asm(6): warning A6004: procedure argument or local not referenced : parameter2
+rdrand.asm(6): warning A6004: procedure argument or local not referenced : parameter3
+     Creating library G:\__video_sharp\sharprdrand\x64\Release\rdrand.lib and object G:\__video_sharp\sharprdrand\x64\Release\rdrand.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  rdrand.vcxproj -> G:\__video_sharp\sharprdrand\x64\Release\rdrand.dll
