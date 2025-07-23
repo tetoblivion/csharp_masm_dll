@@ -8,8 +8,8 @@ _DllMainCRTStartup endp
 
 getnumber proc EXPORT
    rdrand rax
-   mov rbx,7FFFFFFFFFFFFFFFh
-   and rax,rbx  ;or m64
+   mov rdx,7FFFFFFFFFFFFFFFh
+   and rax,rdx  ;or m64
    ret
 getnumber endp
 
